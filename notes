@@ -1,0 +1,5 @@
+notes
+
+For wevberver enum
+nmap -p <port> --script=http-enum <target>
+dd
