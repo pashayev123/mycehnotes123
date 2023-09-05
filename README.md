@@ -269,3 +269,15 @@ showmount -e IP
 ![image](https://github.com/dhabaleshwar/CEHPractical/assets/133966450/9b100e32-e09c-4421-bb28-8b72a0508e29)
 ![image](https://github.com/dhabaleshwar/CEHPractical/assets/133966450/89bcdb04-0363-46bc-832a-8284d3ede071)
 
+# RAT windows
+
+theef tool
+
+click client210
+![image](https://github.com/pashayev123/senededimalmaalma/assets/133966450/13a5dcca-99e6-444f-bb71-2b76cab4b37e)
+
+
+Entry point
+
+peid tool
+die.exe tool
