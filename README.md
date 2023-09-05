@@ -253,7 +253,7 @@ Check MySQL service running- nmap -p 3306 -iL ip.txt | grep open        (ip.txt 
 ```
 
 # Linux Privesc
-```
+
 sudo apt-get update
 sudo apt-get install nfs-kernel-server
 sudo nano /etc/exports
@@ -269,4 +269,4 @@ showmount -e IP
 ![image](https://github.com/dhabaleshwar/CEHPractical/assets/133966450/9b100e32-e09c-4421-bb28-8b72a0508e29)
 ![image](https://github.com/dhabaleshwar/CEHPractical/assets/133966450/89bcdb04-0363-46bc-832a-8284d3ede071)
 ![image](https://github.com/dhabaleshwar/CEHPractical/assets/133966450/bd2918b5-a98c-41b1-8edd-c5e08f7b43fd)
-```
+
