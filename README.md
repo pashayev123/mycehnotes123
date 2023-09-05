@@ -131,3 +131,7 @@ sandflysecurity # ./sandfly-filescan -dir /tmp -entropy 7.7 -elf
 
 sandfly-entropyscan -dir /var/www -elf -entropy 7.7
 
+# FTP
+
+hydra -L wordlist/userlist.txt -P wordlist/passlist.txt ftp://192.168.0.100
+
